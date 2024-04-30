@@ -2,12 +2,7 @@
 
 :::tip
 VLESS is designed to operate in correctly configured TLS connections, as it does not provide encryption on its own.
-:::
-
-::: warning
-VLESS is deprecated and subject to removal. 
-
-Please consider using the Trojan protocol as a replacement for new deployments. 
+ 
 :::
 ## VLESS Inbound
 * Name: `vless`
